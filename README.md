@@ -1,2 +1,2 @@
 # Scorecard
-open source scorecard
+open scorecard
