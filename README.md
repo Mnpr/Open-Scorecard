@@ -1,2 +1,2 @@
 # Scorecard
-open scorecard
+open Scorecard Oddo Module
